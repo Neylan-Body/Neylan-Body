@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in [Radix Engenharia e Software](https://www.radixeng.com.br)
 
-- 📚 I’m currently a student of the **Information Systems** Course at UESB.
+- 📚 I’m currently a student of the **Information Systems** Course at [UESB](http://www.uesb.br/).
 
 - 🌱 I’m currently working with **Java Spring Boot, MongoDB, OracleSQL, RabbitMQ, KAFKA**
  
