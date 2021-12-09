@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working in [Radix Engenharia e Software](https://www.radixeng.com.br)
 
+- 📚 I’m currently a student of the **Information Systems** Course at UESB.
+
 - 🌱 I’m currently working with **Java Spring Boot, MongoDB, OracleSQL, RabbitMQ, KAFKA**
  
 - 👨‍💻 All of my projects are available at [My repositories](https://github.com/Neylan-Body?tab=repositories)
