@@ -1,11 +1,11 @@
-### Hi there 👋
+<a href="https://paulo-mesquita.github.io/NLW_ORIGIN/" target="blank"><img align="right" height="510" width="360" src="https://raw.githubusercontent.com/paulo-mesquita/paulo-mesquita/master/badge-pauloMesquita.png" alt="badge" /></a>
 
-<!--
-**Neylan-Body/Neylan-Body** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">👋 Hello everybody</h1>
+<h3 align="left">Technology lover and everything I learn from it.</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neylan-Body&label=Profile%20views&color=0e75b6&style=flat" alt="Neylan-Body" /> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in [Radix Engenharia e Software](https://www.radixeng.com.br)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
