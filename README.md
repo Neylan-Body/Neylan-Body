@@ -9,7 +9,7 @@
 
 - 📚 I have a degree in **Information Systems** Course at [UESB](http://www.uesb.br/).
 
-- 🌱 I’m currently working with **Java Spring Boot, MongoDB, OracleSQL, RabbitMQ, KAFKA, Rundeck**
+- 🌱 I’m currently working with **Java Spring Boot, MongoDB, OracleSQL, RabbitMQ, KAFKA, Rundeck, Grafana and Docker**
  
 - 👨‍💻 All of my projects are available at [My repositories](https://github.com/Neylan-Body?tab=repositories)
 
